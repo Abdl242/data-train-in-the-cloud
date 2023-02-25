@@ -796,3 +796,4 @@ gcloud compute instances start $INSTANCE
 🚨 Computing power does not grow on trees 🌳, do not forget to switch the VM **off** whenever you stop using it! 💸
 
 </details>
+# data-train-in-the-cloud
